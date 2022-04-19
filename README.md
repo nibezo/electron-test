@@ -9,3 +9,8 @@
         autoplay>
     </center>
 </figure>
+
+Used:
+<br>
+<code>Electron, Node.js<code>
+![](/scr/bee.png "App")
